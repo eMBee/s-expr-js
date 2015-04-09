@@ -1,0 +1,23 @@
+{
+  "name": "s-expr-js",
+  "main": "s-expr.js",
+  "version": "1.0.0",
+  "authors": [
+    "Martin Bähr <mbaehr@societyserver.org>"
+  ],
+  "description": "pretty print javascript data structures in lisp s-expression format",
+  "keywords": [
+    "s-expressions",
+    "lisp",
+    "pretty-print"
+  ],
+  "license": "AGPL-v3",
+  "homepage": "https://github.com/eMBee/s-expr-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
